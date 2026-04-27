@@ -98,3 +98,5 @@ Screenshots of my project :)
 <img width="1918" height="387" alt="sudo wg show" src="https://github.com/user-attachments/assets/101bb080-5de3-4fd8-bf07-c1e3f1f474e4" />
 <img width="822" height="647" alt="Windows WireGuard Client Active" src="https://github.com/user-attachments/assets/a9e128a9-33be-44b0-a06d-428c496704ea" />
 <img width="1447" height="887" alt="FastFetch" src="https://github.com/user-attachments/assets/a0027e2a-dfc0-46f9-ba63-39c8b1ccfdd9" />
+<img width="731" height="658" alt="Pinging" src="https://github.com/user-attachments/assets/1f9b1211-f862-42ea-ac11-8787b417e2f9" />
+
