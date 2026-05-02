@@ -67,6 +67,7 @@ Phase 3 - Windows Client Setup
   ~ Spilt tunneling via AllowedIPs = 10.0.0.0/24, Sidenote: I encountered an issue when using 0.0.0.0/0 for AllowedIPs and it wasn't connecting to internet, it creates a loop that kills your connection when running NAT inside VirtualBox, it is called routing conflict.
   ~ Kill switch enabled
   ~ Added client as a peer on the server
+  ~ Then you can also ssh on your windows terminal "ssh -p 2222 yourusername@localhost ip"
 
 Phase 4 - Verification
 - Confirmed WireGuard service running ("sudo systemctl status wg-quick@wg0)
